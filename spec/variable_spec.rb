@@ -1,4 +1,6 @@
 greeting = " Hello Word"
+puts greeting
+
 # Code your solution in variable.rb
 describe "./variable.rb" do
 
